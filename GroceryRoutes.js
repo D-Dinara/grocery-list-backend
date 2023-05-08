@@ -7,4 +7,4 @@ router.post('/saveGrocery', saveGrocery);
 router.post('/deleteGrocery', deleteGrocery);
 router.post('/editGrocery', editGrocery);
 
-module.exports = router;
+module.exports = router; 

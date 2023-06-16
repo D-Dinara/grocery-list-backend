@@ -15,4 +15,4 @@ const grocerySchema = new mongoose.Schema({
     }
 })
 
-module.exports = mongoose.model('groceries', grocerySchema)
+module.exports = mongoose.model('grocery', grocerySchema)
